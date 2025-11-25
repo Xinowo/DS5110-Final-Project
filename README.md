@@ -2,9 +2,12 @@
 Analyze datasets related to coffee/chocolate, cocoa
 
 ## Completed tasks:
-1. (03/03-Xin) Web scrapping reviews from https://www.coffeereview.com/review/. 8387 reviews were scrapped with review date ranging from Feb. 1997 to Mar. 2025 (data updated until 03/03/2025). [Visit Web Scrapping Codes](Web_Scrapping.ipynb)
+1. (03/03-Xin) Web scrapping reviews from https://www.coffeereview.com/review/. 8387 reviews were scrapped with review date ranging from Feb. 1997 to Mar. 2025 (data updated until 03/03/2025). [Visit Web Scrapping Codes](Xin/01_Web_Scrapping.ipynb)
 
-2. (03/10-Xin) Parsed the raw text data and saved into dataframe. [Visit Text Parsing Codes](Coffee_Review_Text_Extraction.ipynb)
+2. (03/10-Xin) Parsed the raw text data and saved into dataframe. [Visit Text Parsing Codes](Xin/02_Coffee_Review_Text_Extraction.ipynb) 
+
+
+[Coffee Review Dataset link](https://www.kaggle.com/datasets/xinowo/coffee-reviews-feb-1997-mar-2025)
 
 ## Variables Description
 
